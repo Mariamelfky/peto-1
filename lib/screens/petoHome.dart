@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:peto/comp/comp.dart';
 import 'package:peto/screens/categories%20.dart';
+import 'package:peto/screens/dog.dart';
+import 'package:peto/screens/dogscreen.dart';
 import 'package:peto/screens/home.dart';
 
 import 'basket_page.dart';
